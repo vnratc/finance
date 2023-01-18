@@ -24,6 +24,7 @@ Session(app)
 db = SQL("sqlite:///finance.db")
 
 # new change
+# another change
 
 # Make sure API key is set
 if not os.environ.get("API_KEY"):
